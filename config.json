@@ -1,0 +1,8 @@
+{
+  "show_dollars": true,
+  "post_weekday": 4,
+  "model": "sonnet",
+  "mcp_config": "mcp.json",
+  "bot_name": "Position Tracker",
+  "_accounts": "account numbers live in .env as TRACKER_ACCOUNTS=number:label[,number:label]"
+}
